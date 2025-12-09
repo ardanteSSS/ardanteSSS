@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Arda Okan! 👋
 
-<!--
-**ardanteSSS/ardanteSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Management Information Systems (MIS)** student at **Piri Reis University**, passionate about bridging the gap between business and technology.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently exploring **Data Analysis & Tool Configurations**
+- 🌱 I’m currently learning **Python, SQL, and CLI Tools**
+- 🎓 **Goal:** To become a proficient Data Analyst & IT Specialist.
+- ⚡ **Fun fact:** I love customizing user interfaces using tools like **Spicetify**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
+
+---
+📫 **Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardaokan-oguz)
