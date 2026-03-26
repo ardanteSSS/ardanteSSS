@@ -5,7 +5,7 @@ I am a **Management Information Systems (MIS)** student at **Piri Reis Universit
 - 🔭 I’m currently exploring **Data Analysis & Tool Configurations**
 - 🌱 I’m currently learning **Python, SQL, and CLI Tools**
 - 🎓 **Goal:** To become a proficient Data Analyst & IT Specialist.
-- ⚡ **Fun fact:** I love customizing user interfaces using tools like **Spicetify**!
+- ⚡ **Fun fact:** I love customizing user interfaces using tools.
 
 ---
 
